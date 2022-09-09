@@ -1,0 +1,10 @@
+api\colors\ColorsData.class
+api\registration\UnSuccessReg.class
+api\ReqresTest.class
+api\users\UserData.class
+api\registration\SuccessReg.class
+api\registration\Register.class
+api\ReqresNoPojoTest.class
+api\users\UserTime.class
+api\spec\Specification.class
+api\users\UserTimeResponse.class
